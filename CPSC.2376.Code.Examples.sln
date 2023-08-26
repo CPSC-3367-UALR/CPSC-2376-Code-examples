@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level.4.1.Pointers.Introduc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level.4.1.Pointers.Stack.vs.Heap", "Level.4.1.Pointers.Stack.vs.Heap\Level.4.1.Pointers.Stack.vs.Heap.vcxproj", "{B194CF93-857A-4190-AB6D-D86E6EEEF4B1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Level.2.1.STL.Containers.SetIteration", "Level.2.1.STL.Containers.SetIteration\Level.2.1.STL.Containers.SetIteration.vcxproj", "{46988F85-ED1D-413A-AA0C-421C3AC813B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{B194CF93-857A-4190-AB6D-D86E6EEEF4B1}.Release|x64.Build.0 = Release|x64
 		{B194CF93-857A-4190-AB6D-D86E6EEEF4B1}.Release|x86.ActiveCfg = Release|Win32
 		{B194CF93-857A-4190-AB6D-D86E6EEEF4B1}.Release|x86.Build.0 = Release|Win32
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Debug|x64.ActiveCfg = Debug|x64
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Debug|x64.Build.0 = Debug|x64
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Debug|x86.ActiveCfg = Debug|Win32
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Debug|x86.Build.0 = Debug|Win32
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Release|x64.ActiveCfg = Release|x64
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Release|x64.Build.0 = Release|x64
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Release|x86.ActiveCfg = Release|Win32
+		{46988F85-ED1D-413A-AA0C-421C3AC813B7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
